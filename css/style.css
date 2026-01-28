@@ -11,6 +11,14 @@ p {
     font-weight: 2px;
 
 }
+.container {
+    background-color: #F7F4FC;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.container:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+}
 .my-text {
     color: blue;
 }
