@@ -17,11 +17,25 @@ p {
 .card-h {
     justify-content: space-between;
 }
+.btn-lg-1 {
+    background-color: #F7F4FC;
+    color: black;
+    border-color: #F7F4FC;
+    padding: 16px 40px;
+}
+    
+
 .btn-lg-2  {
     background-color: #EA0E78;
     border-color: #EA0E78;
     color: #fff;
     width: 50%;
+    padding: 16px 40px;
+}
+.btn-lg-3 {
+    background-color: #F7F4FC;
+    color: black;
+    border-color: #F7F4FC;
     padding: 16px 40px;
 }
 @media(min-width: 800px) { 
