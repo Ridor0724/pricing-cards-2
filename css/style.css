@@ -14,7 +14,7 @@ p {
     height: 35px !important;
     color: #fff;
 }
-@media(min-width: 800px) {
+@media(min-width: 800px) { 
     .container {
         min-width: 800px;
     }
