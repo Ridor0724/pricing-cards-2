@@ -17,6 +17,9 @@ p {
 .card-h {
     justify-content: space-between;
 }
+.icon-1 {
+    color: #EA0E78 !important;
+}
 .btn-lg-1 {
     background-color: #F7F4FC;
     color: black;
