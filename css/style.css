@@ -14,6 +14,9 @@ p {
     height: 35px !important;
     color: #fff;
 }
+.card-h {
+    justify-content: space-between;
+}
 @media(min-width: 800px) { 
     .container {
         min-width: 800px;
