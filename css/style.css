@@ -17,6 +17,9 @@ p {
 .card-h {
     justify-content: space-between;
 }
+.btn  {
+    padding: 0px 10px 10px 10px !important;
+}
 @media(min-width: 800px) { 
     .container {
         min-width: 800px;
